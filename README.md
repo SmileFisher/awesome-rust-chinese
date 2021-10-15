@@ -10,7 +10,7 @@ Rust 代码和资源的精选列表。
 ## 目录
 
 - 应用
-  - [音频和音乐](https://github.com/SmileFisher/awesome-rust-chinese#audio-and-music)
+  - [音频和音乐](https://github.com/SmileFisher/awesome-rust-chinese#音频和音乐)
   - [加密货币](https://github.com/SmileFisher/awesome-rust-chinese#cryptocurrencies)
   - [数据库](https://github.com/SmileFisher/awesome-rust-chinese#database)
   - [模拟器](https://github.com/SmileFisher/awesome-rust-chinese#emulators)
